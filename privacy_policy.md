@@ -100,5 +100,3 @@ We may update this policy from time to time. We will update the Effective date w
 Developer/Controller: Jend'ral
 
 Contact email: [replace-with-your-support-email]
-
-If you publish this policy URL in app stores and AdMob UMP settings, ensure the contact details and final retention language are finalized before release.
